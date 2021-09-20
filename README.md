@@ -1,4 +1,4 @@
-IMDB-MOVIE-SEARCH
+# imdb-movie-search
 
 This web app allows you to consult the information of a movie using the imdb api.
 
